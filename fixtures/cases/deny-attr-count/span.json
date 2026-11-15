@@ -1,0 +1,15 @@
+{
+  "service": "pay-api",
+  "resource": "service.name=pay-api",
+  "attrs": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "nonce": "n-deny-attr-count",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "9bfypDMeZUG3mQ65lV3EdfiiYoNoXRHKVj7e3HvrDh4"
+}

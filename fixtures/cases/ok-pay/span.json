@@ -1,0 +1,12 @@
+{
+  "service": "pay-api",
+  "resource": "service.name=pay-api",
+  "attrs": {
+    "http.method": "GET",
+    "http.route": "/v1/pay"
+  },
+  "nonce": "n-ok-pay",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "RYhwLO4LohXEs2zZVYD8md68jPBv8wCjKWXdxnQf6BU"
+}

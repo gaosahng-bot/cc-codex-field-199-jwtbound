@@ -1,0 +1,12 @@
+{
+  "service": "pay-api",
+  "resource": "service.name=ops-bot",
+  "attrs": {
+    "http.method": "GET",
+    "http.route": "/v1/pay"
+  },
+  "nonce": "n-deny-resource",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "cCMGaNz7Dx9FQuAJozTN6jVUWvR7WUB4Oca1oKIH8pU"
+}

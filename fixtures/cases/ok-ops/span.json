@@ -1,0 +1,12 @@
+{
+  "service": "ops-bot",
+  "resource": "service.name=ops-bot",
+  "attrs": {
+    "rpc.system": "grpc",
+    "rpc.method": "Run"
+  },
+  "nonce": "n-ok-ops",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "z0xcFLLydXTi4IHUNTGQek0h9w1Y5ScgwQEJNU4tNH8"
+}

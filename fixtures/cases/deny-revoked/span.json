@@ -1,0 +1,12 @@
+{
+  "kid": "k-revoked",
+  "service": "pay-api",
+  "resource": "service.name=pay-api",
+  "attrs": {
+    "http.method": "GET",
+    "http.route": "/v1/pay"
+  },
+  "nonce": "n-deny-revoked",
+  "iat": 1781783975,
+  "sig": "b_dAH2PISmwlSIhcQyEKQ8IFkCVp3G5mHc-c-RdtBMQ"
+}

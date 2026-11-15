@@ -1,0 +1,23 @@
+{
+  "services": {
+    "pay-api": {
+      "resource_exact": "service.name=pay-api",
+      "attr_allow": [
+        "http.method",
+        "http.route",
+        "http.status_code"
+      ]
+    },
+    "ops-bot": {
+      "resource_exact": "service.name=ops-bot",
+      "attr_allow": [
+        "rpc.system",
+        "rpc.method"
+      ]
+    }
+  },
+  "attr_value_max_len": 64,
+  "attr_count_max": 4,
+  "clock_skew_seconds": 60,
+  "max_age_seconds": 300
+}

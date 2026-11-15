@@ -1,0 +1,12 @@
+{
+  "service": "evil",
+  "resource": "service.name=evil",
+  "attrs": {
+    "http.method": "GET",
+    "http.route": "/v1/pay"
+  },
+  "nonce": "n-deny-service",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "VkZ_GBRnDzr0eMmuCqQijxwa2vc48uUWf9IzXE7N5-Q"
+}

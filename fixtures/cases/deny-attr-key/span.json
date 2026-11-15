@@ -1,0 +1,12 @@
+{
+  "service": "pay-api",
+  "resource": "service.name=pay-api",
+  "attrs": {
+    "password": "x",
+    "http.method": "GET"
+  },
+  "nonce": "n-deny-attr-key",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "AWR3qNDzJRNElRkCdVE-3Cp5EbqEORrli4DHlVU_pfI"
+}
