@@ -1,0 +1,11 @@
+{
+  "aud": "api.pay",
+  "azp": "pay-spa",
+  "sub": "user:alice",
+  "cnf_jkt": "JKT_OPS_1",
+  "exp": 1781784200,
+  "nonce": "n-deny-jkt",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "Vi2U-VmyAh7OCY_VjS3r91qXc-MPXnH1s6tFEv9EG7k"
+}

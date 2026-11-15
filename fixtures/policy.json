@@ -1,0 +1,33 @@
+{
+  "audiences": {
+    "api.pay": {
+      "azp_allow": [
+        "pay-spa",
+        "pay-cli"
+      ],
+      "sub_prefixes": [
+        "user:",
+        "svc:"
+      ],
+      "jkt_allow": [
+        "JKT_PAY_1",
+        "JKT_PAY_2"
+      ]
+    },
+    "api.ops": {
+      "azp_allow": [
+        "ops-bot"
+      ],
+      "sub_prefixes": [
+        "svc:"
+      ],
+      "jkt_allow": [
+        "JKT_OPS_1"
+      ]
+    }
+  },
+  "require_cnf_jkt": true,
+  "jkt_hexish_min_len": 8,
+  "clock_skew_seconds": 60,
+  "max_age_seconds": 300
+}

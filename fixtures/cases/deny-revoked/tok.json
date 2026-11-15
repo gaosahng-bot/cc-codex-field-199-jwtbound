@@ -1,0 +1,11 @@
+{
+  "kid": "k-revoked",
+  "aud": "api.pay",
+  "azp": "pay-spa",
+  "sub": "user:alice",
+  "cnf_jkt": "JKT_PAY_1",
+  "exp": 1781784200,
+  "nonce": "n-deny-revoked",
+  "iat": 1781783975,
+  "sig": "huR4JDId1LFwQCsB-9RSbvC_GO3xpBjTaAi_SRVtmzQ"
+}

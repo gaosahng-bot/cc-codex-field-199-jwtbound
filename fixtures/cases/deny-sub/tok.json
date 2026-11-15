@@ -1,0 +1,11 @@
+{
+  "aud": "api.ops",
+  "azp": "ops-bot",
+  "sub": "user:alice",
+  "cnf_jkt": "JKT_OPS_1",
+  "exp": 1781784200,
+  "nonce": "n-deny-sub",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "af2LtLB7V0Ia_QYB907qBHaazcvE4RYKHII88SfehKg"
+}
